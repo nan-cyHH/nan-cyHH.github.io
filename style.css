@@ -55,6 +55,6 @@
       right: 8%;
  }
 
- ul li: :nth-last-child(odd) {
+ ul li :nth-last-child(odd) {
       background-color: lightgray;
    }
